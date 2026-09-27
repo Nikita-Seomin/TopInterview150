@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Interview 150", "src\TopInterview150\Top Interview 150.csproj", "{5DBFF5C2-6C87-4773-9DF4-8D609160CF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterview150Tests", "tests\TopInterview150Tests\TopInterview150Tests.csproj", "{1D030AE6-A255-4724-895D-A862F4D7BC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBFF5C2-6C87-4773-9DF4-8D609160CF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBFF5C2-6C87-4773-9DF4-8D609160CF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBFF5C2-6C87-4773-9DF4-8D609160CF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBFF5C2-6C87-4773-9DF4-8D609160CF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D030AE6-A255-4724-895D-A862F4D7BC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D030AE6-A255-4724-895D-A862F4D7BC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D030AE6-A255-4724-895D-A862F4D7BC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D030AE6-A255-4724-895D-A862F4D7BC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
